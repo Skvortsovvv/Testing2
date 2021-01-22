@@ -1,5 +1,5 @@
 # Testing2
 * egg
 * flour
-* sugar
+* sugar and salt
 * milk
